@@ -1,0 +1,33 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding:15px;
+    margin:0 1px;
+    cursor: pointer;  
+}
+.row{
+    margin: 1% 0;
+    width: fit-content;
+    border-color: black;
+}
+.row input{
+    margin: auto;
+    width: 200px;
+    border-radius: 9px;
+}
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    margin: auto;
+}
+.flex-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
